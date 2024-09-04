@@ -23,6 +23,9 @@
     - 차량 모드: 디바이스를 4륜 차량에 장착하여 블루투스로 조작할 수 있습니다.
     - 셀카 모드: 좁은 내부 공간 등 차량이 들어가기 어려운 구역을 사람이 직접 손으로 들고 측정할 수 있습니다.
 - 이 디바이스는 건설, 토목 공사, 상하수도 점검, 아파트(오피스텔) 내부 측량 등에 활용될 수 있습니다.
+
+[![Video Label](http://img.youtube.com/vi/w0TvCV9RHY8/0.jpg)](https://youtu.be/w0TvCV9RHY8)
+
 ----------
 
 
@@ -204,7 +207,7 @@ Scan             |  DXF
 ### Cave
 Real            |  Scan
 :-------------------------:|:-------------------------:
-<video src = "https://github.com/user-attachments/assets/46bb31ca-bcb0-4646-9715-c329bf750baa"> |  <video src = "https://github.com/user-attachments/assets/753d630c-a3be-4f19-bbe6-1456111eff28" width="20%" height="20%"> 
+<video src = "https://github.com/user-attachments/assets/7dc2f852-dbb4-49e8-8e83-06cb473ff6c9"> |  <video src = "https://github.com/user-attachments/assets/3b821411-f0cc-4dca-8465-04873961ad4c" width="20%" height="20%"> 
 
 ----------
 
