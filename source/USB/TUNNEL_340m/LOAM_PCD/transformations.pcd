@@ -1,0 +1,12 @@
+# .PCD v0.7 - Point Cloud Data file format
+VERSION 0.7
+FIELDS x y z intensity roll pitch yaw time
+SIZE 4 4 4 4 4 4 4 8
+TYPE F F F F F F F F
+COUNT 1 1 1 1 1 1 1 1
+WIDTH 1
+HEIGHT 1
+VIEWPOINT 0 0 0 1 0 0 0
+POINTS 1
+DATA ascii
+0 0 0 0 0.71521848 -1.4583794 -2.5044831e-18 166.32663
