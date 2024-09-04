@@ -12,6 +12,7 @@
 8. [SW구성](#sw구성)
 9. [기능설계도](#기능설계도)
 10. [RESULT](#result)
+
 ----------
 
 
@@ -35,6 +36,7 @@ https://github.com/user-attachments/assets/1c61bd2a-fa79-40d2-b990-56d841b7673b
 - 프로젝트 관리:Notion, Github
 - 회로: OrCad Capture
 - PCB: PADS Layout
+
 ----------
 
 ## DIRECTORY TREE
@@ -95,10 +97,12 @@ https://github.com/user-attachments/assets/1c61bd2a-fa79-40d2-b990-56d841b7673b
 | `USB/` | 기록된 Ros Bag 파일, Cloud Point data, 데이터 처리 파일을 저장하기 위한 경로(삽입한 USB 경로) |
 | `volume/` | 3D체적을 구하는 경로 |
 | `volume.py` | Cloud Points의 대표 좌표값 추출 후 3D 체적을 구하는 소스 |
+
 ----------
 
 ## 주요 함수별 기능
 ### main_3.py
+
 | 함수, 클래스 | 설명 |
 | -------- | ----------- |
 | `SERIAL` | 시리얼 포트를 통해 JetsonOrinNano와 Arduino간의 통신을 관리 |
@@ -124,6 +128,7 @@ https://github.com/user-attachments/assets/1c61bd2a-fa79-40d2-b990-56d841b7673b
 | `umount_usb` |  시스템에서 USB 장치를 언마운트하고 안전하게 연결을 해제 |
 | `emergency_stop` | 비상 정지 명령이 내려졌을 때, 모든 프로세스를 종료하고 시스템을 셧다운 |
 | `state` |  LiDAR, IMU, USB 장치가 모두 연결되어 있는지 상태를 반환 |
+
 ----------
 
 
@@ -141,6 +146,7 @@ MODELING             |  REAL
 <img src = "./modeling/modeling1.png" width="width size%" height="height size%">  |  <img src = "./modeling/real1.jpg" width="50%" height="50%">
 <img src = "./modeling/modeling2.png" width="width size%" height="height size%">  |  <img src = "./modeling/real2.jpg" width="50%" height="50%">
 <img src = "./modeling/modeling3.png" width="width size%" height="height size%">  |  <img src = "./modeling/real3.jpg" width="50%" height="50%">
+
 ----------
 
 
@@ -164,14 +170,18 @@ MODELING             |  REAL
 
 ## S/W구성
 ![](./img/SW1.png)
+
 ----------
 
 ## 기능설계도
 ![](./img/SW_diagram.png)
+
 ----------
 
 ## RESULT
+
 ### Tunnel
+
 Real             |
 :-------------------------:|
 <img src = "./img/TUNNEL1.jpg" width="50%" height="50%"> |
@@ -181,37 +191,14 @@ Scan             |  DXF
 <img src = "./img/TUNNEL4.png" width="100%" height="100%">  |  <img src = "./img/TUNNEL3.png" width="70%" height="70%">
 
 
-<!--
-<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
-  <tr>
-    <th colspan="4" style="text-align: center;">Tunnel</th>
-  </tr>
-  <tr>
-    <td colspan="2" style="display: flex; justify-content: center; align-items: center;">
-      <img src="./img/TUNNEL1.jpg" alt="Image 1" style="width: 100%; height: 100%;">
-    </td>
-  </tr>
-  <tr>
-    <td style="display: flex; justify-content: center; align-items: center; overflow: visible;">
-      <img src="./img/TUNNEL4.png" alt="Image 13" style="width: 1024px; height: 400px;">
-    </td>
-    <td style="display: flex; justify-content: center; align-items: center; overflow: visible;">
-      <img src="./img/TUNNEL3.png" alt="Image 9" style="width: 100%; height: 100%;">
-    </td>
-  </tr>
-</table>
--->
-
-----------
-
 ### Cave
+
 Real            |  Scan
 :-------------------------:|:-------------------------:
 <video src = "https://github.com/user-attachments/assets/7dc2f852-dbb4-49e8-8e83-06cb473ff6c9"> |  <video src = "https://github.com/user-attachments/assets/3b821411-f0cc-4dca-8465-04873961ad4c" width="20%" height="20%"> 
 
-----------
-
 ### 건축물 2D 단면
+
 Real             |
 :-------------------------:|
 <img src = "./img/2d_scan2.jpg" width="50%" height="50%"> |
@@ -223,9 +210,8 @@ Real             |
 
 오차율 : 0.037% 
 
-----------
-
 ### 건축물 3D 체적
+
 Real             |
 :-------------------------:|
 <img src = "./img/2d_scan2.jpg" width="50%" height="50%"> |
@@ -237,9 +223,11 @@ Real             |
 
 오차율 : 0.523%
 
-----------
 
 ### Road
+
 Real            |  Scan
 :-------------------------:|:-------------------------:
-<video src = ""> |  <img src = "./img/road_scan.png" width="70%" height="70%"> 
+<video src = "https://github.com/user-attachments/assets/0827d623-0713-4f08-83b8-101b94800f4f"> |  <img src = "./img/road_scan.png" width="100%" height="100%"> 
+
+----------
