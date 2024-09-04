@@ -216,7 +216,7 @@ Real             |
 실제 설계 단면             |  Scan
 :-------------------------:|:-------------------------:
 <img src = "./img/2d_real.png" width="width size%" height="height size%">  |  <img src = "./img/2d_scan.png" width="50%" height="50%">
-실제 설계 체적 : 119.136㎡	 |  Scan 체적 : 119.09248㎡
+실제 설계 넓이 : 119.136㎡	 |  Scan 넓이 : 119.09248㎡
 
 오차율 : 0.037% 
 
