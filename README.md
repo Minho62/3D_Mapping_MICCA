@@ -239,4 +239,4 @@ Real             |
 ### Cave
 Real            |  Scan
 :-------------------------:|:-------------------------:
-<video src = ""> |  <img src = "road_scan.png" width="100%" height="100%"> 
+<video src = ""> |  <img src = "./img/road_scan.png" width="100%" height="100%"> 
