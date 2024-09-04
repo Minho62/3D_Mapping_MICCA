@@ -236,7 +236,7 @@ Real             |
 
 ----------
 
-### Cave
+### Road
 Real            |  Scan
 :-------------------------:|:-------------------------:
-<video src = ""> |  <img src = "./img/road_scan.png" width="100%" height="100%"> 
+<video src = ""> |  <img src = "./img/road_scan.png" width="70%" height="70%"> 
