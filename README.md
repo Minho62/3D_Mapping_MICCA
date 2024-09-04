@@ -24,7 +24,7 @@
     - 셀카 모드: 좁은 내부 공간 등 차량이 들어가기 어려운 구역을 사람이 직접 손으로 들고 측정할 수 있습니다.
 - 이 디바이스는 건설, 토목 공사, 상하수도 점검, 아파트(오피스텔) 내부 측량 등에 활용될 수 있습니다.
 
-[![Video Label](http://img.youtube.com/vi/w0TvCV9RHY8/0.jpg)](https://www.youtube.com/embed/w0TvCV9RHY8)
+https://github.com/user-attachments/assets/1c61bd2a-fa79-40d2-b990-56d841b7673b
 
 ----------
 
