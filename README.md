@@ -178,9 +178,9 @@ MODELING             |  REAL
 
 ----------
 
-## RESULT
+# RESULT
 
-### Tunnel
+## Tunnel
 
 Real             |
 :-------------------------:|
@@ -190,14 +190,17 @@ Scan             |  DXF
 :-------------------------:|:-------------------------:
 <img src = "./img/TUNNEL4.png" width="100%" height="100%">  |  <img src = "./img/TUNNEL3.png" width="70%" height="70%">
 
+----------
 
-### Cave
+## Cave
 
 Real            |  Scan
 :-------------------------:|:-------------------------:
 <video src = "https://github.com/user-attachments/assets/7dc2f852-dbb4-49e8-8e83-06cb473ff6c9"> |  <video src = "https://github.com/user-attachments/assets/3b821411-f0cc-4dca-8465-04873961ad4c" width="20%" height="20%"> 
 
-### 건축물 2D 단면
+----------
+
+## 건축물 2D 단면
 
 Real             |
 :-------------------------:|
@@ -210,7 +213,9 @@ Real             |
 
 오차율 : 0.037% 
 
-### 건축물 3D 체적
+----------
+
+## 건축물 3D 체적
 
 Real             |
 :-------------------------:|
@@ -223,8 +228,9 @@ Real             |
 
 오차율 : 0.523%
 
+----------
 
-### Road
+## Road
 
 Real            |  Scan
 :-------------------------:|:-------------------------:
